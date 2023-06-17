@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CameraTest/front-rear-simultaneous-camera" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CryptoApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/IPfinder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/NavComp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Notes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RecyclerViewNeetRoots" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shopify" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StoryDrone" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/covidTracker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/hhp/video-capture-application" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/video-capture-application" vcs="Git" />
+  </component>
+</project>
